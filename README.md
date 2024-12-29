@@ -1,7 +1,16 @@
 # rleaguez-backend
 RLeaguez Backend 
 
+Creation date:
 December 29th 2024
+
+### Versions & branches:
+
+rzback-2 v0.0.2 Dec 29th 2024
+
+rzback-1 init commit v0.0.1
+
+------------------------------------------------------------
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
