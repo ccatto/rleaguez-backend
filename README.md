@@ -6,7 +6,7 @@ December 29th 2024
 
 ### Versions & branches:
 
-rzback-2 v0.0.2 Dec 29th 2024
+rzback-2 v0.0.2 Dec 29th 2024;
 
 rzback-1 init commit v0.0.1
 
