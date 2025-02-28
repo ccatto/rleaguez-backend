@@ -1,6 +1,8 @@
 # rleaguez-backend
 RLeaguez Backend 
 
+## This is old & retired; it's moved into RLeaguez repo which is now a mono repo where we are sharing the Prisma db between front and back end;
+
 Creation date:
 December 29th 2024
 
